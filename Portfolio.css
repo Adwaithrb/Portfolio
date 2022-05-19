@@ -1,0 +1,41 @@
+.about-me{
+    background-color: black;
+}
+
+.about-fact{
+    color: #cced00;
+    font-size: 25px;
+    font-weight: 400;
+}
+.about-head{
+    color: beige;
+    font-size: 30px;
+    font-weight: 700;
+}
+.imagee{
+    width: 400px;
+    height: 400px;
+}
+.para{
+    color: aliceblue;
+    font-weight: 600;
+}
+.skill-section{
+    background-color: #1f2933;
+}
+.skil-imag{
+    height: 64px;
+    height: 64px;
+}
+.skil-p{
+    color: aliceblue;
+}
+.icon{
+    font-size: 35px;
+    color: palevioletred;
+    margin-left: 200px;
+}
+
+
+
+
